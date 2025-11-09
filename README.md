@@ -1,10 +1,8 @@
-### Hi there 👋
+# 👋 Hi, I'm Mehdi Bahrami
 
-### I'm Mehdi Bahrami  
+### Front-End Developer | React · Next.js · TypeScript · Node.js 
 
-#### Front-End Developer | React | Next.js | TypeScript | Node.js 
-
-Front-End Developer passionate about building performant, scalable, and maintainable web applications.
+Passionate about building **fast, scalable, and maintainable** web applications.
 
 ---
 
