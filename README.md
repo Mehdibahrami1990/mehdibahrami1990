@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Mehdi Bahrami  
+# Hi there 👋, 
+
+I'm Mehdi Bahrami  
 ### Front-End Developer | React | Next.js | TypeScript  
 
 ---
@@ -33,7 +35,7 @@ let MehdiBahrami = {
   
   REST API / GraphQL
   
-  Tailwind CSS / Material UI / Ant Designe
+  Tailwind CSS / Material UI / Ant Design
 
 🌐 Connect With Me
 
