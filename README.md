@@ -54,11 +54,10 @@ Front-End Developer passionate about building performant, scalable, and maintain
 - 🌐 REST API / GraphQL
 - 🎨 Tailwind CSS / Material UI
 
+ ### 🌐 Connect With Me
 
-🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mehdi-bahrami1990)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/mehdibahrami1990)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/Mehdi)
 
-  linkedin.com/in/mehdi-bahrami1990
-  mehdi.bahrami11990@gmail.com
-  stackoverflow.com/Mehdi 
-  
   
