@@ -25,7 +25,7 @@ Front-End Developer passionate about building performant, scalable, and maintain
           "TypeScript"
         ],
         MyStack: {
-          frontend: [
+          FrontEnd: [
             "React.js",
             "Next.js (SSR & SSG)",
             "Node.js"
@@ -46,12 +46,13 @@ Front-End Developer passionate about building performant, scalable, and maintain
     };
 
 
-🛠️ Expertise
+### 🛠️ Expertise
 
-  React.js / Next.js
-  TypeScript / JavaScript (ES6+)
-  Redux Toolkit / React Query
-  REST API / GraphQL
+- React.js / Next.js
+- TypeScript / JavaScript (ES6+)
+- Redux Toolkit / React Query
+- REST API / GraphQL
+- Tailwind CSS / Material UI
 
 🌐 Connect With Me
 
