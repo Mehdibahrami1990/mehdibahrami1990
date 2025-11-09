@@ -19,49 +19,49 @@ Front-End Developer passionate about building performant, scalable, and maintain
 📜 A little more about me...
 
 let MehdiBahrami = {
-  Role: "Front-End Developer",
-  languages: [
-    "JavaScript (ES6+)",
-    "TypeScript",
-    "HTML5",
-    "CSS3",
-    "SCSS"
-  ],
-  frameworks: {
-    frontend: [
-      "React.js",
-      "Next.js (SSR & SSG)"
+    Role: "Front-End Developer",
+    languages: [
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "SCSS"
     ],
-    stateManagement: [
-      "Redux",
-      "Zustand",
-      "React Query"
-    ]
-  },
-  backend: [
-    "Node.js",
-    "Express.js",
-    "RESTful API",
-    "WebSocket"
-  ],
-  styling: [
-    "Tailwind CSS",
-    "Material UI",
-    "Ant Design",
-    "JSS"
-  ],
-  tools: [
-    "Git",
-    "GitHub",
-    "Webpack",
-    "Babel",
-    "Linux (LPIC 1 & 2)"
-  ],
-  others: [
-    "Agile/Scrum workflow",
-    "Component-driven architecture"
-  ],
-  currentFocus: "Performance optimization and clean, scalable code"
+    frameworks: {
+      frontend: [
+        "React.js",
+        "Next.js (SSR & SSG)"
+      ],
+      stateManagement: [
+        "Redux",
+        "Zustand",
+        "React Query"
+      ]
+    },
+    backend: [
+      "Node.js",
+      "Express.js",
+      "RESTful API",
+      "WebSocket"
+    ],
+    styling: [
+      "Tailwind CSS",
+      "Material UI",
+      "Ant Design",
+      "JSS"
+    ],
+    tools: [
+      "Git",
+      "GitHub",
+      "Webpack",
+      "Babel",
+      "Linux (LPIC 1 & 2)"
+    ],
+    others: [
+      "Agile/Scrum workflow",
+      "Component-driven architecture"
+    ],
+    currentFocus: "Performance optimization and clean, scalable code"
 };
 
 
