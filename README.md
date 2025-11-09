@@ -1,6 +1,6 @@
 # Hi there 👋, 
 
-##I'm Mehdi Bahrami  
+## I'm Mehdi Bahrami  
 
 #### Front-End Developer | React | Next.js | TypeScript | Node.js 
 
