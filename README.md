@@ -5,6 +5,7 @@ I'm Mehdi Bahrami
 ### Front-End Developer | React | Next.js | TypeScript | Node.js 
 
 Front-End Developer passionate about building performant, scalable, and maintainable web applications.
+
 ---
 
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-blue) &nbsp;
