@@ -16,7 +16,7 @@ Front-End Developer passionate about building performant, scalable, and maintain
 
 ---
 
-📜 A little more about me...
+### 🧩 Tech Stack
 
     let MehdiBahrami = {
         Role: "Front-End Developer",
@@ -43,7 +43,7 @@ Front-End Developer passionate about building performant, scalable, and maintain
           "Component-driven architecture"
         ],
         currentFocus: "Performance optimization and clean, scalable code"
-    };
+     };
 
 
 ### 🛠️ Expertise
