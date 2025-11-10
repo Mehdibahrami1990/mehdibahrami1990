@@ -4,7 +4,6 @@
 
 Passionate about building **fast, scalable, and maintainable** web applications.
 
----
 
 <div align="left">
 
@@ -17,7 +16,6 @@ Passionate about building **fast, scalable, and maintainable** web applications.
 </div>
 
 
----
 
 ### 🧩 Tech Stack
 
