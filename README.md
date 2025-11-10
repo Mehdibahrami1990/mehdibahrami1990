@@ -45,11 +45,11 @@ Passionate about building **fast, scalable, and maintainable** web applications.
 
 ### 🛠️ Expertise
 
-- ⚛️ React.js / Next.js
-- 💻 TypeScript / JavaScript (ES6+)
-- 🗂 Redux Toolkit / React Query
-- 🌐 REST API / GraphQL
-- 🎨 Tailwind CSS / Material UI
+- React.js / Next.js
+- TypeScript / JavaScript (ES6+)
+- Redux Toolkit / React Query
+- REST API / GraphQL
+- Tailwind CSS / Material UI
 
  ### 🌐 Connect With Me
 
