@@ -16,26 +16,31 @@ Passionate about building **fast, scalable, and maintainable** web applications.
 ---
 
 ### 🧩 Tech Stack
-```javascript
+
     let MehdiBahrami = {
-        Role: "Front-End Developer",
-        Languages: ["JavaScript (ES6+)", "TypeScript"],
-        MyStack: {
-        FrontEnd: ["React.js", "Next.js (SSR & SSG)", "Node.js"],
+      Role: "Front-End Developer",
+    
+      Languages: ["JavaScript (ES6+)", "TypeScript"],
+    
+      MyStack: {
+        FrontEnd: {
+          Frameworks: ["Next.js", "Nest.js"],
+          Library: ["React.js"],
+          Others: [
+            "Redux Toolkit",
+            "React Query",
+            "Ant Design",
+            "Material UI",
+            "Tailwind CSS",
+            "Linux (LPIC 1 & 2)",
+            "Component-driven architecture",
+          ],
         },
-        Others: [
-          "Redux",
-          "Zustand",
-          "React Query"
-          "AntDesign",
-          "Material UI",
-          "TailwindCSS",
-          "Linux (LPIC 1 & 2)"
-          "Agile/Scrum workflow",
-          "Component-driven architecture"
-        ],
-        currentFocus: "Performance optimization and clean, scalable code"
-     };
+      },
+    
+      currentFocus: "Performance optimization and clean, scalable code",
+    };
+
 
 
 ### 🛠️ Expertise
