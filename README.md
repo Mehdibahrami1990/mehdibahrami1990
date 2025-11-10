@@ -7,11 +7,11 @@ Passionate about building **fast, scalable, and maintainable** web applications.
 ---
 
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-blue)
-![Languages](https://img.shields.io/badge/Languages-JavaScript%20|%20TypeScript-yellow)
-![Frameworks](https://img.shields.io/badge/Frameworks-React%20|%20Next.js-blueviolet)
-![State](https://img.shields.io/badge/State-Redux%20Toolkit%20|%20React%20Query-green) 
+![Languages](https://img.shields.io/badge/Languages-JavaScript|TypeScript-yellow)
+![Frameworks](https://img.shields.io/badge/Frameworks-React|Next.js-blueviolet)
+![State](https://img.shields.io/badge/State-Redux%20Toolkit|React%20Query-green) 
 
-![Styling](https://img.shields.io/badge/Styling-Tailwind%20CSS%20|%20MUI-ff69b4) 
+![Styling](https://img.shields.io/badge/Styling-Tailwind%20CSS|MUI-ff69b4) 
 
 ---
 
