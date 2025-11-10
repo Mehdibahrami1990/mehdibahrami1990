@@ -10,7 +10,7 @@ Passionate about building **fast, scalable, and maintainable** web applications.
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript-yellow) 
 ![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Next.js-blueviolet) 
 ![State](https://img.shields.io/badge/State-Redux%20Toolkit%20%7C%20React%20Query-green) 
-![Styling](https://img.shields.io/badge/Styling-TailwindCSS%20%7C%20MUI-ff69b4)
+![Styling](https://img.shields.io/badge/Styling-Tailwind%20CSS%20%7C%20MUI-ff69b4)
 
 ---
 
