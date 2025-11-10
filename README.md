@@ -5,7 +5,7 @@
 Passionate about building **fast, scalable, and maintainable** web applications.
 
 ---
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" />&nbsp;
   <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript-yellow" />&nbsp;
   <img src="https://img.shields.io/badge/Frameworks-React%20%7C%20Next.js-purple" />&nbsp;
