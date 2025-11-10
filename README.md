@@ -4,18 +4,17 @@
 
 Passionate about building **fast, scalable, and maintainable** web applications.
 
-
-<div align="left">
-
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" />
-  <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript-yellow" />
-  <img src="https://img.shields.io/badge/Frameworks-React%20%7C%20Next.js-purple" />
-  <img src="https://img.shields.io/badge/State-Redux%20Toolkit%20%7C%20React%20Query-brightgreen" />
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" />&nbsp;
+  <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript-yellow" />&nbsp;
+  <img src="https://img.shields.io/badge/Frameworks-React%20%7C%20Next.js-purple" />&nbsp;
+  <img src="https://img.shields.io/badge/State-Redux%20Toolkit%20%7C%20React%20Query-brightgreen" />&nbsp;
   <img src="https://img.shields.io/badge/Styling-Tailwind%20CSS%20%7C%20MUI-pink" />
+</p>
 
-</div>
 
-
+---
 
 ### 🧩 Tech Stack
 
