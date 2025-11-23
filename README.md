@@ -15,7 +15,7 @@
 Front-End Developer with 5 years of experience, specializing in React.js, Next.js, and modern front-end engineering. Focused on performance, scalability, clean code, and seamless user experience.
 
 ---
-## 💻 Tech Stack:
+## Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000)
