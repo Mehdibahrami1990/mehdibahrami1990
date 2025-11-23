@@ -2,10 +2,6 @@
 
 #### Front-End Developer
 
- <div>
-      <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
-</div>
-    
 ## About Me
 
 Front-End Developer with 5 years of experience, specializing in React.js, Next.js, and modern front-end engineering. Focused on performance, scalability, clean code, and seamless user experience.
@@ -18,6 +14,7 @@ Front-End Developer with 5 years of experience, specializing in React.js, Next.j
 
 ### 🧩 Tech Stack
 
+<img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 
     let MehdiBahrami = {
       Role: "Front-End Developer",
