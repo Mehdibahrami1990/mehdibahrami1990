@@ -43,13 +43,13 @@ Passionate about building **fast, scalable, and maintainable** web applications.
 
 
 
-### 🛠️ Expertise
+### 🛠️ Tools and Others
 
-- React.js / Next.js
-- TypeScript / JavaScript (ES6+)
-- Redux Toolkit / React Query
-- REST API / GraphQL
-- Tailwind CSS / Material UI
+![Webpack](https://img.shields.io/badge/Webpack-grey?logo=webpack)
+![Babel](https://img.shields.io/badge/Babel-grey?logo=babel)
+![Git](https://img.shields.io/badge/Git-grey?logo=git)
+![Linux](https://img.shields.io/badge/Linux-grey?logo=linux)
+![Docker](https://img.shields.io/badge/Docker-grey?logo=docker)
 
  ### 🌐 Connect With Me
  
