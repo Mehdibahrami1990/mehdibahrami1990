@@ -9,6 +9,7 @@
   </a>
 </div>
 
+---
 ## About Me
 
 Front-End Developer with 5 years of experience, specializing in React.js, Next.js, and modern front-end engineering. Focused on performance, scalability, clean code, and seamless user experience.
