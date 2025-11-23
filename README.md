@@ -17,26 +17,24 @@ Front-End Developer with 5 years of experience, specializing in React.js, Next.j
      let MehdiBahrami = {
      
           Role: "Front-End Developer",
-
           Languages: ["JavaScript (ES6+)", "TypeScript"],
-          
-               MyStack: {
-                 FrontEnd: {
-                  Frameworks: ["Next.js", "Nest.js"],
-                    Library: ["React.js"],
-                    Others: [                                                                                                
-                      "Redux Toolkit",
-                      "React Query",
-                      "Ant Design",
-                      "Material UI",
-                      "Tailwind CSS",
-                      "Linux (LPIC 1 & 2)",
-                      "Component-driven architecture",
-                    ],
-                  },       
-                },
+          MyStack: {
+            FrontEnd: {
+             Frameworks: ["Next.js", "Nest.js"],
+               Library: ["React.js"],
+               Others: [                                                                                                
+                 "Redux Toolkit",
+                 "React Query",
+                 "Ant Design",
+                 "Material UI",
+                 "Tailwind CSS",
+                 "Linux (LPIC 1 & 2)",
+                 "Component-driven architecture",
+               ],
+             },       
+           },
                
-      currentFocus: "Performance optimization and clean, scalable code",
+      CurrentFocus: "Performance optimization and clean, scalable code",
      };
 
 ```
