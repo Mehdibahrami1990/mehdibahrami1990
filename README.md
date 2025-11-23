@@ -19,8 +19,8 @@ let MehdiBahrami = {
     Languages: ["JavaScript (ES6+)", "TypeScript"],
       
      MyStack: {
-        FrontEnd: {
-          Frameworks: ["Next.js", "Nest.js"],
+       FrontEnd: {
+        Frameworks: ["Next.js", "Nest.js"],
           Library: ["React.js"],
           Others: [                                                                                                
             "Redux Toolkit",
