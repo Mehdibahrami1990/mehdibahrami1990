@@ -1,7 +1,7 @@
 ## Hey 👋 What's up?
 
 My name's Mehdi Bahrami, I'm from Tehran
-
+<hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/mehdi-bahrami1990/" target="_blank">
     <img 
@@ -11,8 +11,9 @@ My name's Mehdi Bahrami, I'm from Tehran
   </a>
 </div>
 
+---
 
-## About Me
+## About me
 
 Front-End Developer with 5 years of experience, specializing in React.js, Next.js, and modern front-end engineering. Focused on performance, scalability, clean code, and seamless user experience.
 
