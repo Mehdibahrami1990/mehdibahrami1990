@@ -12,7 +12,7 @@ Front-End Developer with 5 years of experience, specializing in React.js, Next.j
 
 ### 🧩 Tech Stack
 
-```js
+
 let MehdiBahrami = {
     Role: "Front-End Developer",
     
@@ -37,7 +37,7 @@ let MehdiBahrami = {
       currentFocus: "Performance optimization and clean, scalable code",
     };
 
-```
+
 
 ### 🛠️ Tools and Others
 
