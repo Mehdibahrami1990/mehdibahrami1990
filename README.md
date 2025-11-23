@@ -52,6 +52,8 @@ Passionate about building **fast, scalable, and maintainable** web applications.
 - Tailwind CSS / Material UI
 
  ### 🌐 Connect With Me
+ 
+Let's connect and collaborate:
 
 [![GitHub](https://img.shields.io/github/followers/Mehdibahrami1990?tab=followers&style=social)](https://github.com/mehdibahrami1990) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mehdi-bahrami1990) &nbsp;
