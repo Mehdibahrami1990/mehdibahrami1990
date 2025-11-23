@@ -1,5 +1,14 @@
 ## 👋 Hi, I'm Mehdi Bahrami
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/mehdi-bahrami1990/" target="_blank">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=635&lines=Front-End+Dev+%7C+Someone+passionate+about+React;LinkedIn+@mehdi-bahrami1990;" 
+      alt="Typing SVG" 
+    />
+  </a>
+</div>
+
 ## About Me
 
 Front-End Developer with 5 years of experience, specializing in React.js, Next.js, and modern front-end engineering. Focused on performance, scalability, clean code, and seamless user experience.
