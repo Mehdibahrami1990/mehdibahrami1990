@@ -4,7 +4,7 @@
 
 ## About Me
 
-Front-End Developer with 4+ years of experience building responsive, high-performance, and secure web applications. Proficient in React.js, Next.js and Node.js, with a solid understanding of modern front-end workflows and full-stack integration. Experienced in Agile/Scrum teams, writing clean, maintainable code, and continuously optimizing performance and user experience.
+Front-End Developer with 5 years of experience building responsive, high-performance, and secure web applications. Proficient in React.js, Next.js and Node.js, with a solid understanding of modern front-end workflows and full-stack integration. Experienced in Agile/Scrum teams, writing clean, maintainable code, and continuously optimizing performance and user experience.
 
 ---
 
