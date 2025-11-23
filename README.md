@@ -11,35 +11,43 @@ Front-End Developer with 5 years of experience, specializing in React.js, Next.j
 ---
 
 ### 🧩 Tech Stack
-<div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
-</div>
-```js
 
-     let MehdiBahrami = {
-     
-          Role: "Front-End Developer",
-          Languages: ["JavaScript (ES6+)", "TypeScript"],
-          MyStack: {
-            FrontEnd: {
-             Frameworks: ["Next.js", "Nest.js"],
-               Library: ["React.js"],
-               Others: [                                                                                                
-                 "Redux Toolkit",
-                 "React Query",                                                                                                 
-                 "Ant Design",
-                 "Material UI",
-                 "Tailwind CSS",
-                 "Linux (LPIC 1 & 2)",
-                 "Component-driven architecture",
-               ],
-             },       
-           },
-               
-      CurrentFocus: "Performance optimization and clean, scalable code",
-     };
+<div style="position: relative; width: 100%;">
+
+  <!-- GIF overlay -->
+  <img 
+    src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" 
+    width="250" 
+    style="position: absolute; top: 0; right: 0; z-index: 999;" 
+  />
+
+  <!-- Your code block -->
+  
+```js
+let MehdiBahrami = {
+  Role: "Front-End Developer",
+  Languages: ["JavaScript (ES6+)", "TypeScript"],
+  MyStack: {
+    FrontEnd: {
+      Frameworks: ["Next.js", "Nest.js"],
+      Library: ["React.js"],
+      Others: [
+        "Redux Toolkit",
+        "React Query",
+        "Ant Design",
+        "Material UI",
+        "Tailwind CSS",
+        "Linux (LPIC 1 & 2)",
+        "Component-driven architecture",
+      ],
+    },
+  },
+  CurrentFocus: "Performance optimization and clean, scalable code",
+};
+
 
 ```
+</div>
 
 ### 🛠️ Tools and Others
 
