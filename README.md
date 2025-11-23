@@ -14,16 +14,15 @@ Front-End Developer with 5 years of experience, specializing in React.js, Next.j
 
 <div style="position: relative; width: 100%;">
 
-  <!-- GIF overlay -->
+  <!-- GIF EXACT overlay on text -->
   <img 
-    src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" 
-    width="250" 
-    style="position: absolute; top: 0; right: 0; z-index: 999;" 
+    src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698"
+    width="260"
+    style="position: absolute; top: 40px; right: 20px; z-index: 99; opacity: 0.9;"
   />
 
-  <!-- Your code block -->
-  
-```js
+  <pre>
+<code>
 let MehdiBahrami = {
   Role: "Front-End Developer",
   Languages: ["JavaScript (ES6+)", "TypeScript"],
@@ -44,10 +43,11 @@ let MehdiBahrami = {
   },
   CurrentFocus: "Performance optimization and clean, scalable code",
 };
+</code>
+  </pre>
 
-
-```
 </div>
+
 
 ### 🛠️ Tools and Others
 
