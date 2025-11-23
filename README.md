@@ -54,7 +54,7 @@ Passionate about building **fast, scalable, and maintainable** web applications.
  ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mehdi-bahrami1990) &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/mehdibahrami1990) &nbsp;
+[![GitHub](https://img.shields.io/github/followers/minajalili?label=Follow&style=social)](https://github.com/mehdibahrami1990) &nbsp;
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/Mehdi)
 
   
