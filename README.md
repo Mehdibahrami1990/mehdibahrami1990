@@ -33,8 +33,8 @@ Front-End Developer with 5 years of experience, specializing in React.js, Next.j
         ],
       },
     },
+
     CurrentFocus: "Performance optimization and clean, scalable code",
-  
   };
 
 ```
