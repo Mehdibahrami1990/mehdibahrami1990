@@ -12,10 +12,6 @@ Front-End Developer with 5 years of experience, specializing in React.js, Next.j
 
 ### 🧩 Tech Stack
 
-<table>
-<tr>
-<td style="width:60%; vertical-align:top;">
-
 ```js
 let MehdiBahrami = {
   Role: "Front-End Developer",
@@ -24,7 +20,7 @@ let MehdiBahrami = {
     FrontEnd: {
       Frameworks: ["Next.js", "Nest.js"],
       Library: ["React.js"],
-      Others: [
+      Others: [<td>
         "Redux Toolkit",
         "React Query",
         "Ant Design",
@@ -39,12 +35,6 @@ let MehdiBahrami = {
 };
 
 ```
-</td> 
-<td style="width:40%;"> 
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="280"/> 
-</td> 
-</tr> 
-</table>
 
 ### 🛠️ Tools and Others
 
