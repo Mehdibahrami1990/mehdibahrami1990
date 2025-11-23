@@ -11,7 +11,9 @@ Front-End Developer with 5 years of experience, specializing in React.js, Next.j
 ---
 
 ### 🧩 Tech Stack
-
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+</div>
 ```js
 
      let MehdiBahrami = {
@@ -24,7 +26,7 @@ Front-End Developer with 5 years of experience, specializing in React.js, Next.j
                Library: ["React.js"],
                Others: [                                                                                                
                  "Redux Toolkit",
-                 "React Query",
+                 "React Query",                                                                                                 
                  "Ant Design",
                  "Material UI",
                  "Tailwind CSS",
@@ -38,10 +40,6 @@ Front-End Developer with 5 years of experience, specializing in React.js, Next.j
      };
 
 ```
-
-<div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
-</div>
 
 ### 🛠️ Tools and Others
 
