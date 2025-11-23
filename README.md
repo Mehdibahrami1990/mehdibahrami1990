@@ -2,7 +2,9 @@
 
 #### Front-End Developer
 
-Passionate about building **fast, scalable, and maintainable** web applications.
+## About Me
+
+I have developed web applications using a variety of technologies, including HTML, CSS, JavaScript, and React. My focus has always been on optimizing user experience, scalability, readability, and performance.
 
 ---
 
