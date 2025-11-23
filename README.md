@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Mehdi Bahrami
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mehdi-bahrami1990/" target="_target">
+  <a href="https://www.linkedin.com/in/mehdi-bahrami1990/" target="_blank">
     <img 
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=635&lines=Fullstack+Dev+%7C+Someone+passionate+about+React;LinkedIn+@mehdi-bahrami1990;" 
       alt="Typing SVG" 
