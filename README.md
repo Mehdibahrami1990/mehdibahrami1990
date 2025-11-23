@@ -13,12 +13,12 @@ Front-End Developer with 5 years of experience, specializing in React.js, Next.j
 ### 🧩 Tech Stack
 
 ```js
-    let MehdiBahrami = {
-      Role: "Front-End Developer",
+let MehdiBahrami = {
+    Role: "Front-End Developer",
     
-      Languages: ["JavaScript (ES6+)", "TypeScript"],
+    Languages: ["JavaScript (ES6+)", "TypeScript"],
       
-      MyStack: {
+     MyStack: {
         FrontEnd: {
           Frameworks: ["Next.js", "Nest.js"],
           Library: ["React.js"],
